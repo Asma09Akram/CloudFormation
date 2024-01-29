@@ -1,3 +1,8 @@
+Here we will be doing the following task
+
+## We will create a LAMP stack with the help of template in CloudFormation Stack.
+
+
 ### Task 1. Creating a S3 bucket and upload LAMP_template.json
 1.1 Create a S3 bucket
    
