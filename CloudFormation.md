@@ -1,4 +1,4 @@
-[LAMP_template.json](https://github.com/Asma09Akram/CloudFormation-Introduction/files/14076979/LAMP_template.json)### Task 1. Creating a S3 bucket and upload LAMP_template.json
+### Task 1. Creating a S3 bucket and upload LAMP_template.json
 1.1 Create a S3 bucket
    
 ![image](https://github.com/Asma09Akram/CloudFormation-Introduction/assets/124654068/3fae4035-dafd-4e15-a9f4-b0f8375c76ea)
