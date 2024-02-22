@@ -42,7 +42,8 @@ https://mylamps3bucket.s3.ap-south-1.amazonaws.com/LAMP_template.json
 
 ![image](https://github.com/Asma09Akram/CloudFormation-Introduction/assets/124654068/46bfba36-6cd0-4516-ad06-88bee3080771)
 
-2.3 
+2.3 Give the name as MyLampStack
+
 ![image](https://github.com/Asma09Akram/CloudFormation-Introduction/assets/124654068/535435f1-269c-438a-b645-d33967cfe2d9)
 
 2.4 Parameters
