@@ -1,4 +1,4 @@
-Here we will be doing the following task
+We used CloudFormation template which is written in YAML that defines the resources needed for the LAMP stack. This would typically include an EC2 instance with a Linux-based operating system, Apache web server, MySQL database, and PHP installation. We would also define necessary security groups, IAM roles, and other configurations.
 
 ## We will create a LAMP stack with the help of template in CloudFormation Stack.
 
